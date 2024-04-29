@@ -1,0 +1,255 @@
+4.8072 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\mstmc.ttf
+4.9298 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\mstmc.ttf
+8.5922 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+8.5927 	INFO 	Loaded monitor calibration from ['2024_04_29 08:21']
+8.8275 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BC0004F580>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BC0004F520>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BC0004F3A0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001BC0044AAC0>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.8276 	EXP 	window1: mouseVisible = True
+8.8276 	EXP 	window1: backgroundImage = ''
+8.8276 	EXP 	window1: backgroundFit = 'none'
+8.8277 	EXP 	window1: mouseVisible = True
+8.8279 	EXP 	window1: mouseVisible = True
+8.8303 	EXP 	window1: mouseVisible = True
+8.8308 	EXP 	window1: mouseVisible = True
+8.8350 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8360 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8371 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8383 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8396 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8404 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8415 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8427 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8434 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8441 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8452 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8463 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8473 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8483 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8493 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8504 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8515 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8523 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8531 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8544 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8552 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8554 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.8572 	DEBUG 	Upload of Texture Font fontname complete
+8.8583 	EXP 	window1: mouseVisible = True
+8.8584 	EXP 	window1: mouseVisible = True
+8.8590 	EXP 	window1: mouseVisible = True
+8.8596 	EXP 	window1: mouseVisible = True
+8.8631 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8644 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8656 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8658 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.8667 	DEBUG 	Upload of Texture Font fontname complete
+8.8683 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.8683 	EXP 	window1: recordFrameIntervals = False
+8.9433 	EXP 	window1: recordFrameIntervals = True
+9.0196 	EXP 	Screen (0) actual frame rate measured at 144.30Hz
+9.0197 	EXP 	window1: recordFrameIntervals = False
+9.0197 	EXP 	window1: mouseVisible = False
+9.0202 	EXP 	window1: mouseVisible = True
+9.0203 	EXP 	window1: mouseVisible = True
+9.0209 	EXP 	window1: mouseVisible = True
+9.0215 	EXP 	window1: mouseVisible = True
+9.0250 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0267 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0279 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0293 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0306 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0320 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0328 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0340 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0353 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0365 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0368 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.0373 	DEBUG 	Upload of Texture Font fontname complete
+9.0387 	EXP 	window1: mouseVisible = True
+9.0388 	EXP 	window1: mouseVisible = True
+9.0394 	EXP 	window1: mouseVisible = True
+9.0399 	EXP 	window1: mouseVisible = True
+9.0735 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+11.5340 	INFO 	keyboard.Keyboard is using iohub backend.
+11.5340 	INFO 	keyboard.Keyboard is using iohub backend.
+11.5341 	INFO 	keyboard.Keyboard is using iohub backend.
+11.5341 	EXP 	Stroop Task: status = STARTED
+11.5343 	EXP 	window1: mouseVisible = True
+11.5920 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.5921 	EXP 	window1: mouseVisible = True
+11.5953 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+11.5954 	EXP 	window1: mouseVisible = True
+11.5964 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.5965 	EXP 	window1: mouseVisible = True
+11.6035 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0198 	EXP 	text_3: autoDraw = True
+0.9934 	INFO 	Keyboard events cleared
+1.1855 	DEBUG 	Read excel file with openpyxl: Conditions.xlsx
+1.1863 	EXP 	Imported Conditions.xlsx as conditions, 12 conditions, 4 params
+1.1867 	EXP 	Created sequence: random, trialTypes=12, nReps=1, seed=None
+1.1868 	EXP 	New trial (rep=0, index=0): {'word': 'Odmítnutý', 'colour': [-1.0, -1.0, 1.0], 'Condition': 'negative', 'correctAnswer': 'm'}
+1.1874 	DATA 	Keypress: space
+1.1937 	EXP 	text_3: autoDraw = False
+4.1739 	EXP 	text_2: autoDraw = True
+6.1734 	EXP 	text_2: autoDraw = False
+6.1734 	EXP 	text_2: autoDraw = False
+6.1734 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+6.1734 	EXP 	text: height = 0.05
+6.1734 	EXP 	text: height = 0.05
+6.1734 	EXP 	text: height = 0.05
+6.1734 	EXP 	text: text = 'Odmítnutý'
+6.1815 	INFO 	Keyboard events cleared
+6.6745 	EXP 	text: autoDraw = True
+7.9898 	EXP 	New trial (rep=0, index=1): {'word': 'Papír', 'colour': [-1.0, -1.0, 1.0], 'Condition': 'neutral', 'correctAnswer': 'm'}
+7.9904 	DATA 	Keypress: m
+7.9946 	EXP 	text: autoDraw = False
+10.9806 	EXP 	text_2: autoDraw = True
+12.9798 	EXP 	text_2: autoDraw = False
+12.9798 	EXP 	text_2: autoDraw = False
+12.9798 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+12.9798 	EXP 	text: height = 0.05
+12.9798 	EXP 	text: height = 0.05
+12.9798 	EXP 	text: height = 0.05
+12.9798 	EXP 	text: text = 'Papír'
+12.9875 	INFO 	Keyboard events cleared
+13.4809 	EXP 	text: autoDraw = True
+14.1989 	EXP 	New trial (rep=0, index=2): {'word': 'Úspěch', 'colour': [-1.0, -1.0, 1.0], 'Condition': 'positive', 'correctAnswer': 'm'}
+14.1994 	DATA 	Keypress: m
+14.2033 	EXP 	text: autoDraw = False
+17.1897 	EXP 	text_2: autoDraw = True
+19.1889 	EXP 	text_2: autoDraw = False
+19.1889 	EXP 	text_2: autoDraw = False
+19.1889 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+19.1889 	EXP 	text: height = 0.05
+19.1889 	EXP 	text: height = 0.05
+19.1889 	EXP 	text: height = 0.05
+19.1889 	EXP 	text: text = 'Úspěch'
+19.1969 	INFO 	Keyboard events cleared
+19.6900 	EXP 	text: autoDraw = True
+20.2552 	EXP 	New trial (rep=0, index=3): {'word': 'Pohřeb', 'colour': [1.0, -1.0, -1.0], 'Condition': 'suicide', 'correctAnswer': 'c'}
+20.2558 	DATA 	Keypress: m
+20.2593 	EXP 	text: autoDraw = False
+23.2460 	EXP 	text_2: autoDraw = True
+25.2449 	EXP 	text_2: autoDraw = False
+25.2449 	EXP 	text_2: autoDraw = False
+25.2449 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+25.2449 	EXP 	text: height = 0.05
+25.2449 	EXP 	text: height = 0.05
+25.2449 	EXP 	text: height = 0.05
+25.2449 	EXP 	text: text = 'Pohřeb'
+25.2657 	INFO 	Keyboard events cleared
+25.7463 	EXP 	text: autoDraw = True
+26.3393 	EXP 	New trial (rep=0, index=4): {'word': 'Izolovaný', 'colour': [1.0, -1.0, -1.0], 'Condition': 'negative', 'correctAnswer': 'c'}
+26.3397 	DATA 	Keypress: m
+26.3437 	EXP 	text: autoDraw = False
+29.3299 	EXP 	text_2: autoDraw = True
+31.3291 	EXP 	text_2: autoDraw = False
+31.3291 	EXP 	text_2: autoDraw = False
+31.3291 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+31.3291 	EXP 	text: height = 0.05
+31.3291 	EXP 	text: height = 0.05
+31.3291 	EXP 	text: height = 0.05
+31.3291 	EXP 	text: text = 'Izolovaný'
+31.3376 	INFO 	Keyboard events cleared
+31.8305 	EXP 	text: autoDraw = True
+32.2705 	EXP 	New trial (rep=0, index=5): {'word': 'Smrt', 'colour': [-1.0, -1.0, 1.0], 'Condition': 'suicide', 'correctAnswer': 'm'}
+32.2709 	DATA 	Keypress: c
+32.2750 	EXP 	text: autoDraw = False
+35.2614 	EXP 	text_2: autoDraw = True
+37.2606 	EXP 	text_2: autoDraw = False
+37.2606 	EXP 	text_2: autoDraw = False
+37.2606 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+37.2606 	EXP 	text: height = 0.05
+37.2606 	EXP 	text: height = 0.05
+37.2606 	EXP 	text: height = 0.05
+37.2606 	EXP 	text: text = 'Smrt'
+37.2684 	INFO 	Keyboard events cleared
+37.7617 	EXP 	text: autoDraw = True
+38.3966 	EXP 	New trial (rep=0, index=6): {'word': 'Sebevražda', 'colour': [1.0, -1.0, -1.0], 'Condition': 'suicide', 'correctAnswer': 'c'}
+38.3971 	DATA 	Keypress: c
+38.4007 	EXP 	text: autoDraw = False
+41.3955 	EXP 	text_2: autoDraw = True
+43.3935 	INFO 	Keyboard events cleared
+43.3933 	EXP 	text_2: autoDraw = False
+43.3933 	EXP 	text_2: autoDraw = False
+43.3933 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+43.3933 	EXP 	text: height = 0.05
+43.3933 	EXP 	text: height = 0.05
+43.3933 	EXP 	text: height = 0.05
+43.3933 	EXP 	text: text = 'Sebevražda'
+43.8875 	EXP 	text: autoDraw = True
+44.2930 	EXP 	New trial (rep=0, index=7): {'word': 'Koberce', 'colour': [1.0, -1.0, -1.0], 'Condition': 'neutral', 'correctAnswer': 'c'}
+44.2935 	DATA 	Keypress: m
+44.2972 	EXP 	text: autoDraw = False
+47.2837 	EXP 	text_2: autoDraw = True
+49.2831 	EXP 	text_2: autoDraw = False
+49.2831 	EXP 	text_2: autoDraw = False
+49.2831 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+49.2831 	EXP 	text: height = 0.05
+49.2831 	EXP 	text: height = 0.05
+49.2831 	EXP 	text: height = 0.05
+49.2831 	EXP 	text: text = 'Koberce'
+49.2912 	INFO 	Keyboard events cleared
+49.7840 	EXP 	text: autoDraw = True
+50.3422 	EXP 	New trial (rep=0, index=8): {'word': 'Potěšení', 'colour': [1.0, -1.0, -1.0], 'Condition': 'positive', 'correctAnswer': 'c'}
+50.3427 	DATA 	Keypress: c
+50.3466 	EXP 	text: autoDraw = False
+53.3331 	EXP 	text_2: autoDraw = True
+55.3322 	EXP 	text_2: autoDraw = False
+55.3322 	EXP 	text_2: autoDraw = False
+55.3322 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+55.3322 	EXP 	text: height = 0.05
+55.3322 	EXP 	text: height = 0.05
+55.3322 	EXP 	text: height = 0.05
+55.3322 	EXP 	text: text = 'Potěšení'
+55.3405 	INFO 	Keyboard events cleared
+55.8331 	EXP 	text: autoDraw = True
+56.5583 	EXP 	New trial (rep=0, index=9): {'word': 'Motor', 'colour': [-1.0, -1.0, 1.0], 'Condition': 'neutral', 'correctAnswer': 'm'}
+56.5588 	DATA 	Keypress: c
+56.5627 	EXP 	text: autoDraw = False
+59.5491 	EXP 	text_2: autoDraw = True
+61.5482 	EXP 	text_2: autoDraw = False
+61.5482 	EXP 	text_2: autoDraw = False
+61.5482 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+61.5482 	EXP 	text: height = 0.05
+61.5482 	EXP 	text: height = 0.05
+61.5482 	EXP 	text: height = 0.05
+61.5482 	EXP 	text: text = 'Motor'
+61.5567 	INFO 	Keyboard events cleared
+62.0494 	EXP 	text: autoDraw = True
+62.7885 	EXP 	New trial (rep=0, index=10): {'word': 'Sám/Samotný', 'colour': [-1.0, -1.0, 1.0], 'Condition': 'negative', 'correctAnswer': 'm'}
+62.7889 	DATA 	Keypress: m
+62.7927 	EXP 	text: autoDraw = False
+65.7792 	EXP 	text_2: autoDraw = True
+67.7784 	EXP 	text_2: autoDraw = False
+67.7784 	EXP 	text_2: autoDraw = False
+67.7784 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+67.7784 	EXP 	text: height = 0.05
+67.7784 	EXP 	text: height = 0.05
+67.7784 	EXP 	text: height = 0.05
+67.7784 	EXP 	text: text = 'Sám/Samotný'
+67.7865 	INFO 	Keyboard events cleared
+68.2794 	EXP 	text: autoDraw = True
+69.2962 	EXP 	New trial (rep=0, index=11): {'word': 'Šťastný', 'colour': [1.0, -1.0, -1.0], 'Condition': 'positive', 'correctAnswer': 'c'}
+69.2966 	DATA 	Keypress: m
+69.3004 	EXP 	text: autoDraw = False
+72.2869 	EXP 	text_2: autoDraw = True
+74.2860 	EXP 	text_2: autoDraw = False
+74.2860 	EXP 	text_2: autoDraw = False
+74.2860 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+74.2860 	EXP 	text: height = 0.05
+74.2860 	EXP 	text: height = 0.05
+74.2860 	EXP 	text: height = 0.05
+74.2860 	EXP 	text: text = 'Šťastný'
+74.2946 	INFO 	Keyboard events cleared
+74.7872 	EXP 	text: autoDraw = True
+75.5617 	DATA 	Keypress: c
+75.5650 	EXP 	text: autoDraw = False
+75.5650 	EXP 	text_4: autoDraw = True
+79.3882 	DATA 	Keypress: escape
+79.4778 	EXP 	Stroop Task: status = STOPPED
+79.4823 	EXP 	text_4: autoDraw = False
+79.4842 	EXP 	Stroop Task: status = STOPPED
+79.4890 	INFO 	saved data to 'C:\\Users\\Iseba\\OneDrive\\Documents\\From Dropbox\\Projects\\PsychClinic\\Eyetracking & Suicide\\Stroop Task\\data/trial_Stroop Task_2024-04-29_11h27.40.820.csv'
+79.4896 	INFO 	saved data to C:\Users\Iseba\OneDrive\Documents\From Dropbox\Projects\PsychClinic\Eyetracking & Suicide\Stroop Task\data/trial_Stroop Task_2024-04-29_11h27.40.820.psydat
+79.5143 	EXP 	window1: mouseVisible = True
+79.9698 	DEBUG 	Saving data for Stroop Task ExperimentHandler
